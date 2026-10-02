@@ -11,7 +11,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760"
+    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760",
+    "discussion_path": "论文解读/01-医学图像与结构分析.md#paper-p010"
   },
   {
     "paper_id": "P016",
@@ -24,7 +25,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p016"
   },
   {
     "paper_id": "P040",
@@ -36,7 +38,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p040"
   },
   {
     "paper_id": "P060",
@@ -49,7 +52,8 @@
       "生物医学AI"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://arxiv.org/abs/2603.22879v1"
+    "source_url": "https://arxiv.org/abs/2603.22879v1",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p060"
   },
   {
     "paper_id": "P121",
@@ -61,7 +65,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p121"
   },
   {
     "paper_id": "P165",
@@ -75,7 +80,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p165"
   },
   {
     "paper_id": "P218",
@@ -87,7 +93,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/02-临床预测与辅助诊断.md#paper-p218"
   },
   {
     "paper_id": "P320",
@@ -100,7 +107,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p320"
   },
   {
     "paper_id": "P327",
@@ -113,7 +121,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-医学多模态与语言模型.md#paper-p327"
   },
   {
     "paper_id": "P335",
@@ -126,7 +135,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://zhaoxyai.github.io/publications.html"
+    "source_url": "https://zhaoxyai.github.io/publications.html",
+    "discussion_path": "论文解读/04-医学多模态与语言模型.md#paper-p335"
   },
   {
     "paper_id": "P341",
@@ -138,7 +148,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1145/3770855.3818892"
+    "source_url": "https://doi.org/10.1145/3770855.3818892",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p341"
   },
   {
     "paper_id": "P342",
@@ -150,7 +161,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1021/acs.jcim.6c01857"
+    "source_url": "https://doi.org/10.1021/acs.jcim.6c01857",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p342"
   },
   {
     "paper_id": "P343",
@@ -162,7 +174,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tcbbio.2026.3693722"
+    "source_url": "https://doi.org/10.1109/tcbbio.2026.3693722",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p343"
   },
   {
     "paper_id": "P344",
@@ -173,7 +186,8 @@
       "生物医学AI"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1371/journal.pcbi.1014057"
+    "source_url": "https://doi.org/10.1371/journal.pcbi.1014057",
+    "discussion_path": "论文解读/03-生物信息与分子建模.md#paper-p344"
   },
   {
     "paper_id": "P345",
@@ -184,7 +198,8 @@
       "生物医学AI"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1109/tmi.2026.3675606"
+    "source_url": "https://doi.org/10.1109/tmi.2026.3675606",
+    "discussion_path": "论文解读/01-医学图像与结构分析.md#paper-p345"
   },
   {
     "paper_id": "P346",
@@ -196,7 +211,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1609/aaai.v40i2.37098"
+    "source_url": "https://doi.org/10.1609/aaai.v40i2.37098",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p346"
   },
   {
     "paper_id": "P347",
@@ -208,7 +224,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1145/3809986.3810021"
+    "source_url": "https://doi.org/10.1145/3809986.3810021",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p347"
   },
   {
     "paper_id": "P348",
@@ -219,7 +236,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1145/3809986.3810027"
+    "source_url": "https://doi.org/10.1145/3809986.3810027",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p348"
   },
   {
     "paper_id": "P349",
@@ -232,7 +250,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tbme.2026.3693918"
+    "source_url": "https://doi.org/10.1109/tbme.2026.3693918",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p349"
   },
   {
     "paper_id": "P350",
@@ -245,7 +264,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tpami.2026.3704679"
+    "source_url": "https://doi.org/10.1109/tpami.2026.3704679",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p350"
   },
   {
     "paper_id": "P351",
@@ -257,7 +277,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tcbbio.2026.3733126"
+    "source_url": "https://doi.org/10.1109/tcbbio.2026.3733126",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p351"
   },
   {
     "paper_id": "P352",
@@ -268,7 +289,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/cis69366.2025.11433863"
+    "source_url": "https://doi.org/10.1109/cis69366.2025.11433863",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p352"
   },
   {
     "paper_id": "P353",
@@ -280,7 +302,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.1038/s42003-025-08788-0"
+    "source_url": "https://doi.org/10.1038/s42003-025-08788-0",
+    "discussion_path": "论文解读/03-生物信息与分子建模.md#paper-p353"
   },
   {
     "paper_id": "P354",
@@ -292,7 +315,8 @@
       "生物医学AI"
     ],
     "evidence_level": "fulltext",
-    "source_url": "https://doi.org/10.1186/s13059-025-03779-0"
+    "source_url": "https://doi.org/10.1186/s13059-025-03779-0",
+    "discussion_path": "论文解读/03-生物信息与分子建模.md#paper-p354"
   },
   {
     "paper_id": "P355",
@@ -304,7 +328,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1016/j.knosys.2025.114416"
+    "source_url": "https://doi.org/10.1016/j.knosys.2025.114416",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p355"
   },
   {
     "paper_id": "P356",
@@ -316,7 +341,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tbdata.2025.3604169"
+    "source_url": "https://doi.org/10.1109/tbdata.2025.3604169",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p356"
   },
   {
     "paper_id": "P357",
@@ -328,7 +354,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/jbhi.2025.3591427"
+    "source_url": "https://doi.org/10.1109/jbhi.2025.3591427",
+    "discussion_path": "论文解读/01-医学图像与结构分析.md#paper-p357"
   },
   {
     "paper_id": "P358",
@@ -341,7 +368,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1016/j.media.2025.103581"
+    "source_url": "https://doi.org/10.1016/j.media.2025.103581",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p358"
   },
   {
     "paper_id": "P359",
@@ -353,7 +381,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tcyb.2025.3531657"
+    "source_url": "https://doi.org/10.1109/tcyb.2025.3531657",
+    "discussion_path": "论文解读/01-医学图像与结构分析.md#paper-p359"
   },
   {
     "paper_id": "P360",
@@ -365,7 +394,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "http://arxiv.org/abs/2502.02629"
+    "source_url": "http://arxiv.org/abs/2502.02629",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p360"
   },
   {
     "paper_id": "P361",
@@ -377,7 +407,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.1186/s12915-025-02128-8"
+    "source_url": "https://doi.org/10.1186/s12915-025-02128-8",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p361"
   },
   {
     "paper_id": "P362",
@@ -388,7 +419,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.52202/085713-4333"
+    "source_url": "https://doi.org/10.52202/085713-4333",
+    "discussion_path": "论文解读/04-医学多模态与语言模型.md#paper-p362"
   },
   {
     "paper_id": "P363",
@@ -399,7 +431,8 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/iscslp63861.2024.10800104"
+    "source_url": "https://doi.org/10.1109/iscslp63861.2024.10800104",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p363"
   },
   {
     "paper_id": "P364",
@@ -412,7 +445,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://doi.org/10.1145/3664647.3681395"
+    "source_url": "https://doi.org/10.1145/3664647.3681395",
+    "discussion_path": "论文解读/01-医学图像与结构分析.md#paper-p364"
   },
   {
     "paper_id": "P365",
@@ -426,7 +460,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2603.06665"
+    "source_url": "https://arxiv.org/abs/2603.06665",
+    "discussion_path": "论文解读/06-生物医学的交叉方法.md#paper-p365"
   },
   {
     "paper_id": "P366",
@@ -437,7 +472,8 @@
       "生物医学AI"
     ],
     "evidence_level": "abstract",
-    "source_url": "https://arxiv.org/abs/2604.11272"
+    "source_url": "https://arxiv.org/abs/2604.11272",
+    "discussion_path": "论文解读/05-医学数据与可信学习.md#paper-p366"
   },
   {
     "paper_id": "P367",
@@ -448,6 +484,7 @@
       "生物医学AI"
     ],
     "evidence_level": "title",
-    "source_url": "https://doi.org/10.1109/tce.2026.3682400"
+    "source_url": "https://doi.org/10.1109/tce.2026.3682400",
+    "discussion_path": "论文解读/03-生物信息与分子建模.md#paper-p367"
   }
 ]
