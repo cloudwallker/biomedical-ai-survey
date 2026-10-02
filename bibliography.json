@@ -1,0 +1,453 @@
+[
+  {
+    "paper_id": "P010",
+    "title": "Anti-Confounding Hashing: Enhancing Radiological Image Retrieval via Debiased Weighting and Counterfactual Reasoning",
+    "index_year": 2025,
+    "primary_domain": "推荐、搜索与个性化",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "推荐、搜索与个性化",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tnnls.2025.3526760"
+  },
+  {
+    "paper_id": "P016",
+    "title": "When VR Meets BCI: (Un)Observable Brainwave-Aware Privacy Reconstruction in the Metaverse via Unrestricted Inbuilt Motion Sensors",
+    "index_year": 2026,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P040",
+    "title": "ECMO: An Efficient and Confidential Outsourcing Protocol for Medical Data",
+    "index_year": 2025,
+    "primary_domain": "安全与隐私",
+    "related_domains": [
+      "安全与隐私",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://cyber.cs.cityu.edu.hk/en/publication/index.html"
+  },
+  {
+    "paper_id": "P060",
+    "title": "Confidence Calibration under Ambiguous Ground Truth",
+    "index_year": 2026,
+    "primary_domain": "可信机器学习",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://arxiv.org/abs/2603.22879v1"
+  },
+  {
+    "paper_id": "P121",
+    "title": "An Adaptive AI-based Virtual Reality Sports System for Adolescents with Excess Body Weight: a Randomised Controlled Trial",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://www.cs.cityu.edu.hk/~rynson/publications.html"
+  },
+  {
+    "paper_id": "P165",
+    "title": "Privacy-enhanced healthcare monitoring service refreshment in human digital twin-assisted fabric metaverse",
+    "index_year": 2025,
+    "primary_domain": "边缘计算、网络与数字孪生",
+    "related_domains": [
+      "安全与隐私",
+      "边缘计算、网络与数字孪生",
+      "算法、优化与决策控制",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://www.cs.cityu.edu.hk/~weliang/publication.html"
+  },
+  {
+    "paper_id": "P218",
+    "title": "MultiDx: A Multi-Source Knowledge Integration Framework towards Diagnostic Reasoning",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "大语言模型与智能体",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P320",
+    "title": "A Contrastive Pretrain Model with Prompt Tuning for Multi-center Medication Recommendation",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "推荐、搜索与个性化",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P327",
+    "title": "Mitigating Hallucinations of Large Language Models in Medical Domain via Contrastive Decoding",
+    "index_year": 2024,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "大语言模型与智能体",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P335",
+    "title": "Editing Factual Knowledge and Explanatory Ability of Medical Large Language Models",
+    "index_year": 2024,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "大语言模型与智能体",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://zhaoxyai.github.io/publications.html"
+  },
+  {
+    "paper_id": "P341",
+    "title": "Multi-Hop Diffusion-Wavelet Semantic Learning for Zero-Shot Circrna-Mirna Interaction Prediction",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1145/3770855.3818892"
+  },
+  {
+    "paper_id": "P342",
+    "title": "Functionally Guided Graph Learning for Robust Cross-Patient Cell-Type Annotation in Single-Cell RNA Sequencing",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1021/acs.jcim.6c01857"
+  },
+  {
+    "paper_id": "P343",
+    "title": "scALGSL: Active Learning and Graph Structure Learning for Cell Type Annotation From Single-Cell RNA-Seq Data",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tcbbio.2026.3693722"
+  },
+  {
+    "paper_id": "P344",
+    "title": "HiCMamba: Enhancing Hi-C resolution and identifying 3D genome structures with state space modeling",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1371/journal.pcbi.1014057"
+  },
+  {
+    "paper_id": "P345",
+    "title": "scBIT: Integrating Single-Cell Transcriptomic Data Into fMRI-Based Prediction for Alzheimer's Disease Diagnosis",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1109/tmi.2026.3675606"
+  },
+  {
+    "paper_id": "P346",
+    "title": "Dual-Channel Learning Framework for Zero-Shot CircRNA-miRNA Interaction Prediction via State Space Modeling",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1609/aaai.v40i2.37098"
+  },
+  {
+    "paper_id": "P347",
+    "title": "scGraphPilot: Functionally Guided Graph Transfer for Robust Cross-Patient Cell Type Annotation",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1145/3809986.3810021"
+  },
+  {
+    "paper_id": "P348",
+    "title": "S2GNN: Adaptive Structure-Semantic Gated Fusion via Common Metapaths for Biomedical Link Prediction",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1145/3809986.3810027"
+  },
+  {
+    "paper_id": "P349",
+    "title": "TIME: A Taylor-Inspired Mixed-Effects Model for IDH Prediction",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tbme.2026.3693918"
+  },
+  {
+    "paper_id": "P350",
+    "title": "Enhancing X-ray Image Classification through Heterogeneous Federated Learning with Natural Image-Augmented Models",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "安全与隐私",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tpami.2026.3704679"
+  },
+  {
+    "paper_id": "P351",
+    "title": "ScGraphTrans: Pathway-Guided Graph Learning and Domain Adaptation for Cell Type Annotation in Single-Cell RNA-seq",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tcbbio.2026.3733126"
+  },
+  {
+    "paper_id": "P352",
+    "title": "Optimization of Antibody Candidates to Mutated Antigens via a Paratope-Informed Pipeline",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/cis69366.2025.11433863"
+  },
+  {
+    "paper_id": "P353",
+    "title": "scGSDR: Harnessing gene semantics for single-cell pharmacological profiling",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.1038/s42003-025-08788-0"
+  },
+  {
+    "paper_id": "P354",
+    "title": "scKAN: interpretable single-cell analysis for cell-type-specific gene discovery and drug repurposing via Kolmogorov-Arnold networks",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "fulltext",
+    "source_url": "https://doi.org/10.1186/s13059-025-03779-0"
+  },
+  {
+    "paper_id": "P355",
+    "title": "scExGraph: Explainable graph neural network for predicting tumor environment components with single-cell sequencing data",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1016/j.knosys.2025.114416"
+  },
+  {
+    "paper_id": "P356",
+    "title": "scProGraph: A Cell Bagging Strategy for Cell Type Annotation With Gene Interaction-Aware Explainability",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tbdata.2025.3604169"
+  },
+  {
+    "paper_id": "P357",
+    "title": "Lightweight Network Enhancing High-Resolution Feature Representation for Efficient Low Dose CT Denoising",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/jbhi.2025.3591427"
+  },
+  {
+    "paper_id": "P358",
+    "title": "CausalMixNet: A mixed-attention framework for causal intervention in robust medical image diagnosis",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1016/j.media.2025.103581"
+  },
+  {
+    "paper_id": "P359",
+    "title": "Dynamic Graph Representation Learning for Spatio-Temporal Neuroimaging Analysis",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tcyb.2025.3531657"
+  },
+  {
+    "paper_id": "P360",
+    "title": "Graph Structure Learning for Tumor Microenvironment with Cell Type Annotation from non-spatial scRNA-seq data",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "http://arxiv.org/abs/2502.02629"
+  },
+  {
+    "paper_id": "P361",
+    "title": "Consensus representation of multiple cell–cell graphs from gene signaling pathways for cell type annotation",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.1186/s12915-025-02128-8"
+  },
+  {
+    "paper_id": "P362",
+    "title": "Multimodal 3D Genome Pre-training",
+    "index_year": 2025,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.52202/085713-4333"
+  },
+  {
+    "paper_id": "P363",
+    "title": "Enhancing Spatio-Temporal Auditory Attention Decoding with ST-AADNet",
+    "index_year": 2024,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/iscslp63861.2024.10800104"
+  },
+  {
+    "paper_id": "P364",
+    "title": "Mixed Prototype Correction for Causal Inference in Medical Image Classification",
+    "index_year": 2024,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://doi.org/10.1145/3664647.3681395"
+  },
+  {
+    "paper_id": "P365",
+    "title": "Better Eyes, Better Thoughts: Why Vision Chain-of-Thought Fails in Medicine",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "可信机器学习",
+      "视觉、图形与三维场景",
+      "大语言模型与智能体",
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2603.06665"
+  },
+  {
+    "paper_id": "P366",
+    "title": "AbLWR:A Context-Aware Listwise Ranking Framework for Antibody-Antigen Binding Affinity Prediction via Positive-Unlabeled Learning",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "abstract",
+    "source_url": "https://arxiv.org/abs/2604.11272"
+  },
+  {
+    "paper_id": "P367",
+    "title": "TADM: Unified Pre-Trained Framework for EEG-to-fNIRS Cross-Modal Generation in BCI Decoding",
+    "index_year": 2026,
+    "primary_domain": "生物医学AI",
+    "related_domains": [
+      "生物医学AI"
+    ],
+    "evidence_level": "title",
+    "source_url": "https://doi.org/10.1109/tce.2026.3682400"
+  }
+]
